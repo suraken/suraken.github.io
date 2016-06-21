@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>迷路的羔羊</title>
+  <subtitle>只要你足够好，一切都不是问题。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://suraken.github.io/"/>
+  <updated>2016-06-21T05:50:49.232Z</updated>
+  <id>http://suraken.github.io/</id>
+  
+  <author>
+    <name>Hongjian</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://suraken.github.io/2016/03/01/hello-world/"/>
+    <id>http://suraken.github.io/2016/03/01/hello-world/</id>
+    <published>2016-03-01T05:55:05.316Z</published>
+    <updated>2016-06-21T05:50:49.232Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;TEST&quot;&gt;&lt;a href=&quot;#TEST&quot; class=&quot;headerlink&quot; title=&quot;TEST&quot;&gt;&lt;/a&gt;TEST&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-test&quot;&gt;&lt;a href=&quot;#Create-a-new-test&quot; class=&quot;headerlink&quot; title=&quot;Create a new test&quot;&gt;&lt;/a&gt;Create a new test&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;&quot;hello world!&quot;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;TEST&quot;&gt;&lt;a href=&quot;#TEST&quot; class=&quot;headerlink&quot; title=&quot;TEST&quot;&gt;&lt;/a&gt;TEST&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-test&quot;&gt;&lt;a href=&quot;#Create-a-new-test&quot; class=&quot;he
+    
+    </summary>
+    
+      <category term="test" scheme="http://suraken.github.io/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://suraken.github.io/tags/test/"/>
+    
+  </entry>
+  
+</feed>
